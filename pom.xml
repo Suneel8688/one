@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://44.200.224.53:8081/repository/Suneel/</url>
+		    <url>http://http://3.238.38.141:8081/repository/myRepo//</url>
 		</repository>
   	</distributionManagement>
 	
